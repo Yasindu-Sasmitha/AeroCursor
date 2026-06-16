@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_dark">#FF0A0A0A</color>
+    <color name="card_dark">#1A1A23</color>
+    <color name="neon_cyan">#FF00F0FF</color>
+    <color name="neon_purple">#FFBB86FC</color>
+    <color name="neon_cyan_20">#3300F0FF</color>
+    <color name="neon_cyan_30">#4D00F0FF</color>
+    <color name="neon_cyan_50">#8000F0FF</color>
+    <color name="neon_purple_50">#80BB86FC</color>
+    <color name="status_green">#FF00E676</color>
+    <color name="chip_background">#1A1A2E</color>
+    <color name="text_secondary">#9CA3AF</color>
+</resources>

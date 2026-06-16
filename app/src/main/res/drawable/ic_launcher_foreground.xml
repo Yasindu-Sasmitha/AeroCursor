@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Wing Shape -->
+    <path
+        android:pathData="M25,75 L85,45 L45,35 Z"
+        android:fillColor="#00F2FF" />
+    <!-- Inner Wing Shadow/Detail -->
+    <path
+        android:pathData="M25,75 L85,45 L65,55 Z"
+        android:fillColor="#00A3AD" />
+    <!-- Small Bottom Detail -->
+    <path
+        android:pathData="M25,75 L45,70 L35,65 Z"
+        android:fillColor="#005A61" />
+</vector>
